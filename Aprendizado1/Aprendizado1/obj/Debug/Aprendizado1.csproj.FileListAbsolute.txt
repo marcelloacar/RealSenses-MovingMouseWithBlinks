@@ -1,0 +1,60 @@
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe.config
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.pdb
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csprojResolveAssemblyReference.cache
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Form1.resources
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Properties.Resources.resources
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csproj.GenerateResource.Cache
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.exe
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.pdb
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\libpxcclr.cs.dll
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.dll
+C:\Users\setmacjeff\Documents\Visual Studio 2015\Projects\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.RealSense.dll
+G:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe.config
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.exe
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.pdb
+G:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe
+G:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.pdb
+G:\Aprendizado1\Aprendizado1\bin\Debug\libpxcclr.cs.dll
+G:\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.dll
+G:\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.RealSense.dll
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csprojResolveAssemblyReference.cache
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Form1.resources
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Properties.Resources.resources
+G:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csproj.GenerateResource.Cache
+D:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe.config
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.exe
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.pdb
+D:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe
+D:\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.pdb
+D:\Aprendizado1\Aprendizado1\bin\Debug\libpxcclr.cs.dll
+D:\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.dll
+D:\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.RealSense.dll
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csprojResolveAssemblyReference.cache
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Form1.resources
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Properties.Resources.resources
+D:\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe.config
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.exe
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.pdb
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.pdb
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\libpxcclr.cs.dll
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.dll
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.RealSense.dll
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Form1.resources
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Properties.Resources.resources
+C:\Users\Intel\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csproj.GenerateResource.Cache
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe.config
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.exe
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.pdb
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.exe
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\Aprendizado1.pdb
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\libpxcclr.cs.dll
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.dll
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\bin\Debug\SharpSenses.RealSense.dll
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csprojResolveAssemblyReference.cache
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Form1.resources
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.Properties.Resources.resources
+C:\Users\Marcello\Desktop\Aprendizado1\Aprendizado1\obj\Debug\Aprendizado1.csproj.GenerateResource.Cache
